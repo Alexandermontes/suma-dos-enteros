@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="tw_titulo">SUMA DE ENTEROS</string>
+    <string name="et_num1"></string>
+    <string name="et_num1_hint">ingrese primer valor</string>
+    <string name="et_num2_hint">ingrese segundo valor</string>
+    <string name="tw_resultado"></string>
+    <string name="bt_sumar">SUMAR</string>
+
+
+</resources>
